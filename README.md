@@ -1,4 +1,4 @@
-# 🛒 MiniMart: The Mini E-Commerce Website
+# 🛒 MiniMart: The Mini E-Commerce Platform
 <img width="1920" height="925" alt="Screenshot (215)" src="https://github.com/user-attachments/assets/6ebc6d07-e27e-4424-89f1-f0814b732fc5" />
 <img width="1920" height="922" alt="Screenshot (217)" src="https://github.com/user-attachments/assets/5c286fc5-85ec-4d57-8bba-da64f8672ac2" />
 
